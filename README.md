@@ -1,2 +1,2 @@
 # Law-and-Data-Science
-Repo to illustrate the multiple relations between law and data science/data analysis
+This repo contains some articles related to legal problems concerning Data Science or Data Analysis. 
